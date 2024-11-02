@@ -84,18 +84,19 @@ a:hover {
   padding-left: 0px;
 }
 
-.list-inline > li {
+.list-inline li {
   display: inline;
-  padding: 0px 20px
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color: black;
 }
 
 /* Design adjustments using id (1% design remaining) */
 #introduction p {
   margin-bottom: 40px;
 }
-
-
-
-
-
-
